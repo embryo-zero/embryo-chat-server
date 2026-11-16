@@ -1,3 +1,13 @@
+.. embryo-brand
+
+==================
+Embryo Chat Server
+==================
+
+**Embryo Chat Server** is Embryo-Zero's fork of `Synapse (Matrix) <https://github.com/element-hq/synapse>`_, made by Embryo Zero Backyard Data Center Corporation. Our changes are on the ``embryo`` branch; see EMBRYO.md, LEGAL.md and CHANGES-EMBRYO.md. The original project's README follows unchanged, with its authors' credits.
+
+----
+
 .. image:: https://github.com/element-hq/synapse/raw/develop/docs/element_logo_white_bg.svg
    :height: 60px
 
